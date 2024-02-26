@@ -1,0 +1,58 @@
+body {
+    background-color: rgb(54,82,35);
+    font-family: "mulish-variable" , sans-serif;
+}
+
+.main-box {
+    background-color: white;
+    margin-top: 120px;
+    margin-left: 230px;
+    margin-right: 230px;
+    border-radius: 25px;
+    border:none;
+    height: 560px;
+    width: 950px;
+    display: flex;
+    padding: 20px;
+}
+
+h2 {
+    font-size: 40px;
+    margin-bottom: 16px;
+}
+
+#description-text {
+    width: 250px;
+    color: gray;
+    font-size: 10px;
+    margin: 0;
+}
+
+#description-box {
+    margin-top: 115px;
+    margin-left: 100px;
+}
+
+#price-tag {
+    font-family: "mulish-variable" , sans-serif;
+    font-variation-settings: 'wght' 800;
+    font-size: 20px;
+}
+
+button {
+    background-color: rgb(255, 240, 173);
+    border-radius: 10px;
+    border:none;
+    padding: 13px 30px 12px 30px;
+    font-family: "mulish-variable",sans-serif;
+    font-variation-settings: 'wght' 850;
+    font-size: 15px;
+    color: rgba(10, 31, 72, 0.908);
+    margin-top: 5px;
+}
+
+button:hover {
+    cursor: pointer;
+}
+
+
